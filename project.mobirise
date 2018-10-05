@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "Lumineers-clone",
-    "currentPage": "Q&A.html",
+    "name": "Lumineers",
+    "currentPage": ".html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "4.8.4",
     "theme": {
       "name": "mobirise4",
@@ -57,7 +57,7 @@
       "settings": {
         "meta_descr": "Description",
         "title": "Landing",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -578,7 +578,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Contact",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1054,7 +1054,7 @@
       "settings": {
         "meta_descr": "Questions and Answers",
         "title": "Q&A",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1080,22 +1080,11 @@
         }
       ]
     },
-    "Home.html": {
-      "settings": {
-        "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": []
-    },
     "Services.html": {
       "settings": {
         "meta_descr": "Services",
         "title": "Services",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1623,7 +1612,7 @@
       "settings": {
         "meta_descr": "Start Saving",
         "title": "Start Saving",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2192,7 +2181,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "About Us",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2649,6 +2638,17 @@
           "_params": {}
         }
       ]
+    },
+    ".html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
     }
   }
 }
